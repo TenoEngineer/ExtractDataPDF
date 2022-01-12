@@ -119,4 +119,4 @@ wb.save(filename = f'{os.path.dirname(sys.argv[0])}/Notas Fiscais.xlsx')
 
 print('Importação concluída')   
 
-print(list(raw.values()))
+#print(list(raw.values()))
